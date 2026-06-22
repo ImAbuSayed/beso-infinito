@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-infinito/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Beso infinito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-infinito/) |
+| **Get License** | [Obtain a Music License for Beso infinito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-infinito/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Beso infinito, yeah, en la noche te encuentro
+> Tus labios llaman, no hay vuelta atrás, lo siento
+> Beso infinito, bailamos sin aliento
+> Tu cuerpo es fuego, dame más, te quiero lento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
