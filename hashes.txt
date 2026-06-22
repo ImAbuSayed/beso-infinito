@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso infinito
+
+This log tracks the cryptographic history and versioning for the song **Beso infinito** (beso-infinito).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T04:46:53.659844 | `v1` | `2daf9545bbdb6a50c548adbf96b013e3cda52d3d523610f6277a0cb878975740` | `0635ffc7375a1094f6d56873000d5e2ae82fc2f72adeb25cd767aec67b82ef6a` | `2026-06-23_beso-infinito-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
